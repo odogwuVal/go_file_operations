@@ -1,0 +1,16 @@
+So 2020 was the year I decided it was time to learn a new programming language. 
+I love Javascript — and that will probably never change. But at the same time, 
+knowing how to code in more languages is always good for multiple reasons, 
+like becoming a more versatile developer, who is able to use a more varied set of tools. 
+Because in the end, that’s what a programming language is: a tool that we use to build software.
+
+Golang is a programming language that has been around for a while (since 2009) but it wasn’t just until 
+recent years that I began to hear a lot about it. During the past year, in my current job, we had started 
+to use it for building some microservices. As a curious person, my interest in this language started 
+to grow on me. So I told myself, “All right! It’s time to learn a new language. Here I go!” (pun intended).
+
+In this article, I’ll be describing some of the things I’ve discovered through my learning journey. 
+Bear in mind that I’m not an expert with this language. But still, I’ve been able to pick up how it 
+works and how to use it quite quickly. I also received some good tips from the Golang Reddit community 
+and have more than 9 years of experience in web development. So don’t worry, it’s not like I’m a total 
+beginner!
