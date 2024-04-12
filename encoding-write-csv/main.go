@@ -62,9 +62,9 @@ func writeRecs(recs []record) error {
 
 func main() {
 	recs := []record{
-		record{"John", "Doak"},
-		record{"Sarah", "Murphy"},
-		record{"David", "Justice"},
+		{"John", "Doak"},
+		{"Sarah", "Murphy"},
+		{"David", "Justice"},
 	}
 
 	if err := writeRecs(recs); err != nil {
